@@ -16,4 +16,4 @@ def generate_hashtag(s):
 
 
 
-print(generate_hashtag('code wars is cool VERY a   VERY'))
+print(generate_hashtag('code wars is cool VERY a teSTing VERY'))
